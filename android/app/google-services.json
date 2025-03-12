@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989799196100",
+    "project_id": "new-new-pew-plss",
+    "storage_bucket": "new-new-pew-plss.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989799196100:android:14e4cda9f7552d14353091",
+        "android_client_info": {
+          "package_name": "com.ngiam.pill_pal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJY1Mf7by59n8SiP0rKVbZw66AqARyfYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
