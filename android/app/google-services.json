@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564788091894",
+    "project_id": "testing-pill-pal",
+    "storage_bucket": "testing-pill-pal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564788091894:android:3a8f42aa1669f48f5c85d7",
+        "android_client_info": {
+          "package_name": "com.ngiam.testing_pill_pal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhG2FwLzm378YWEvXpUA1MgUERxYEz94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
