@@ -16,7 +16,7 @@
 
 | Login Screen  | Home Screen | Settings Screen | Profile Screen |
 |--------------|------------|----------------|---------------|
-| ![Login](login.png) | ![Home](home.png) | ![Settings](settings.png) | ![Profile](profile.png) |  
+| ![Login](login.jpg) | ![Home](home.jpg) | ![Settings](settings.jpg) | ![Profile](profile.jpg) |  
 
 ## Inspiration  
 The idea for Pill Pal was inspired by my grandparents, who often forgot to take their medication, making it difficult for my parents to track their health. With Singapore’s aging population in mind, I wanted to create a solution that simplifies medication tracking and supports caregivers in ensuring their loved ones stay on top of their prescriptions.  
