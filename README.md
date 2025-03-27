@@ -21,7 +21,7 @@
 ## Inspiration  
 The idea for Pill Pal was inspired by my grandparents, who often forgot to take their medication, making it difficult for my parents to track their health. With Singapore’s aging population in mind, I wanted to create a solution that simplifies medication tracking and supports caregivers in ensuring their loved ones stay on top of their prescriptions.  
 
-## 🛠Development  
+## Development  
 Pill Pal was developed as part of a **team of three**, where I led the project by:  
 - Designing and implementing the **authentication system** to protect user data.  
 - Developing **backend functions** to reset the database daily.  
