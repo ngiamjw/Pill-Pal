@@ -10,7 +10,13 @@
 - **Real-Time Cloud Sync** – Data is stored in the cloud, allowing instant updates across devices.  
 - **Smart Reminders** – Users receive notifications to take their medication.  
 - **Caregiver Alerts** – Caregivers are notified if a user misses a dose.  
-- **Minimalist UI** – Designed with simplicity to ensure ease of use, especially for the elderly.  
+- **Minimalist UI** – Designed with simplicity to ensure ease of use, especially for the elderly.
+
+## Screenshots  
+
+| Login Screen  | Home Screen | Settings Screen | Profile Screen |
+|--------------|------------|----------------|---------------|
+| ![Login](login.png) | ![Home](home.png) | ![Settings](settings.png) | ![Profile](profile.png) |  
 
 ## Inspiration  
 The idea for Pill Pal was inspired by my grandparents, who often forgot to take their medication, making it difficult for my parents to track their health. With Singapore’s aging population in mind, I wanted to create a solution that simplifies medication tracking and supports caregivers in ensuring their loved ones stay on top of their prescriptions.  
